@@ -5,7 +5,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Ajith Technologies- Home Page</title>
-<link href="images/Ajithlogo.jpg" rel="icon">
+<link href="images/kalabhiravaf.jpg" rel="icon">
 </head>
 </head>
 <body>
@@ -27,7 +27,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 <hr>
 <div style="text-align: center;">
 	<span>
-		<img src="images/Ajithlogo.jpg" alt="" width="100">
+		<img src="images/kalabhirava.jpg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
 		Ajith Technologies, 
