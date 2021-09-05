@@ -101,11 +101,11 @@
 	      <url>http://65.0.6.47:8081/ajith/repository/saptagiri/</url>
 	    </repository> -->
 	    
-	    <snapshotRepository>
+	    <! --<snapshotRepository>
 	      <id>nexus</id>
 	      <name>Saptagiri Technologies Snapshot Nexus Repository </name>
 	      <url>http://15.207.117.105:8081/ajith/repository/saptagiri-snapshot/</url>
-	    </snapshotRepository>
+	    </snapshotRepository> -->
 	    
 	</distributionManagement>
 	
